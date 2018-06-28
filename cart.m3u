@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,Nickelodeon
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/487.ts
+
+#EXTINF:-1,Nickelodeon HD
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/844.ts
+
+#EXTINF:-1,Disney Channel HD
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/27.ts
+
+#EXTINF:-1,Boomerang
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/24.ts
+
+#EXTINF:-1,Cartoon Network HD
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/30.ts
+
+#EXTINF:-1,Disney Junior
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/25.ts
+
+#EXTINF:-1,Disney XD
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/28.ts
