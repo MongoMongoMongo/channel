@@ -6,17 +6,31 @@ http://stb.first-class-portal.com:80/live/test1234/test1234/17729.ts
 #EXTINF:0 group-title="(US) United States",FXX
 http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7875.ts
 
+#EXTINF:0 group-title="(US) United States",HBO HD
+http://stb.first-class-portal.com:80/live/test1234/test1234/17684.ts
+
+#EXTINF:0 group-title="(US) United States",HISTORY HD
+http://stb.first-class-portal.com:80/live/test1234/test1234/17680.ts
+
+#EXTINF:0 group-title="(US) United States",LIFETIME HD
+http://stb.first-class-portal.com:80/live/test1234/test1234/17677.ts
+
+#EXTINF:0 group-title="(US) United States",NAT GEO WILD HD
+http://stb.first-class-portal.com:80/live/test1234/test1234/17661.ts
+
+#EXTINF:0 group-title="(US) United States",NATIONAL GEOOGRAPHIC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7945.ts
+
+#EXTINF:0 group-title="(US) United States",SHOWTIME HD
+http://stb.first-class-portal.com:80/live/test1234/test1234/17672.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
-#EXTINF:-1,DE: Cartoon Network
+#EXTINF:-1,Dutch Cartoon Network
 http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7558.ts
-
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1,ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
