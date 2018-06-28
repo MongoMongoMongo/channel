@@ -10,3 +10,9 @@ http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
 #EXTINF:-1,DE: Cartoon Network
 http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7558.ts
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
