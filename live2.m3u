@@ -8,3 +8,14 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
+#EXTINF:0,Disney
+http://109.169.235.209:81/udp/233.99.61.224:5000
+
+#EXTINF:0,Boomerang
+http://109.169.235.209:81/udp/233.99.61.152:5000
+
+#EXTINF:0,Cartoon Network
+http://109.169.235.209:81/udp/233.99.61.230:5000
+
+#EXTINF:0,Nikelodeon
+http://109.169.235.209:81/udp/233.99.61.213:5000
