@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0,24/7 THE SIMPSONS
-http://eirking.pro:8080/live/golf/golf/4046.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.abclocal.go.com/content/wpvi/images/cms/2216810_1280x720.jpg" group-title="USA LOCAL",6ABC
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8?tc=1&exp=1530156742448&rn=7136.777701132486&ct=c&oid=10b98e7c615f43a98b180d51797e74aa&eid=WPVIwatch&ad=watchwpvilive&ad.kv=station%2Cwpvi&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=f3e02d928d9be2de0269e42999febd953b16fe48da519452ad3f6a6d601713f6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
 #EXTINF:-1,Dutch Cartoon Network
