@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,NONONO Network
-http://109.169.235.209:81/udp/233.99.61.230:5000
+#EXTINF:-1 tvg-ID="" tvg-name="[USA] Cartoon Network" tvg-logo="" group-title="USA",[USA] Cartoon Network
+http://bigiptv.ovh:8000/live/mounir/mounir/10057.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
