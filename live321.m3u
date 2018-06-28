@@ -1,34 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 group-title="(US) United States",FXX
-http://stb.first-class-portal.com:80/live/test1234/test1234/17729.ts
 
-#EXTINF:0 group-title="(US) United States",FXX
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7875.ts
-
-#EXTINF:0 group-title="(US) United States",HBO HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/17684.ts
-
-#EXTINF:0 group-title="(US) United States",HISTORY HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/17680.ts
-
-#EXTINF:0 group-title="(US) United States",LIFETIME HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/17677.ts
-
-#EXTINF:0 group-title="(US) United States",NAT GEO WILD HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/17661.ts
-
-#EXTINF:0 group-title="(US) United States",NATIONAL GEOOGRAPHIC HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7945.ts
-
-#EXTINF:0 group-title="(US) United States",SHOWTIME HD
-http://stb.first-class-portal.com:80/live/test1234/test1234/17672.ts
-
-#EXTINF:0,24/7 MARVEL
-http://eirking.pro:8080/live/golf/golf/5117.ts
-
-#EXTINF:0,24/7 THE SIMPSONS
-http://eirking.pro:8080/live/golf/golf/4046.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
