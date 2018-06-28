@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.abclocal.go.com/content/wpvi/images/cms/2216810_1280x720.jpg" group-title="USA LOCAL",6ABC
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8?tc=1&exp=1530156742448&rn=7136.777701132486&ct=c&oid=10b98e7c615f43a98b180d51797e74aa&eid=WPVIwatch&ad=watchwpvilive&ad.kv=station%2Cwpvi&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=f3e02d928d9be2de0269e42999febd953b16fe48da519452ad3f6a6d601713f6
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://civiliansinconflict.org/wp-content/uploads/2017/09/Colors-CNN-Logo.jpg" group-title="USA",CNN
+http://212.8.253.29:1935/cnew/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
