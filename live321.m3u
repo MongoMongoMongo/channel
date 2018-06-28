@@ -6,7 +6,7 @@ https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg",NBC 10 News (Philadelphia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
 #EXTINF:-1,Dutch Cartoon Network
