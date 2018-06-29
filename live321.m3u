@@ -3,17 +3,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.abclocal.go.com/content/wpvi/images/cms/2216810_1280x720.jpg" group-title="USA",6ABC
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8?tc=1&exp=1530156742448&rn=7136.777701132486&ct=c&oid=10b98e7c615f43a98b180d51797e74aa&eid=WPVIwatch&ad=watchwpvilive&ad.kv=station%2Cwpvi&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=f3e02d928d9be2de0269e42999febd953b16fe48da519452ad3f6a6d601713f6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://civiliansinconflict.org/wp-content/uploads/2017/09/Colors-CNN-Logo.jpg" group-title="USA",CNN
-http://212.8.253.29:1935/cnew/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/comedy_central_logo-black.jpg?w=1000&h=563&crop=1" group-title="USA",Comedy Central
-https://videoserver1.org/live/31-efgFWYTyGoHEMFp-Jmg/1530173145/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://civiliansinconflict.org/wp-content/uploads/2017/09/Colors-CNN-Logo.jpg" group-title="USA",CNN
+http://212.8.253.29:1935/cnew/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/AMC_logo.jpg/revision/latest?cb=20151113013912" group-title="USA",AMC
-https://videoserver1.org/live/l-GcH6exypdCv2AsMIjQCg/1530173314/c0371e35a2b3244f5edda7947172d954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/11/CNNgo-logo.png" group-title="USA",CNN HD
+http://turnerlive.akamaized.net/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?hdntl=exp=1530280751~acl=%2f*~hmac=0799390ba71a8f14f19c4b299acb3876d97d31ced38cdb10dc3f32ce7ec843ea
