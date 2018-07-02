@@ -23,3 +23,6 @@ https://lhr-1.firstonetv.net:4434/hls/00b67b249d961f8c114a07ca30be0f96/153044296
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="USA",Disney XD
 https://lhr-1.firstonetv.net:4434/hls/ee5723a3568def9079972e776864830c/1530442969/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f63386335383432313861336233303336633030316537653434306236336332382e6d3375383f73743d71753371393546412d7a75436b537a2d4768782d4b7726653d31353330343537333639.m3u8?time=1530414353329
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
