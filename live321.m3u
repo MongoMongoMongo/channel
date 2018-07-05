@@ -15,8 +15,5 @@ http://78.130.147.20:22002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/N4.png/revision/latest?cb=20180428091126" group-title="ICELAND",N4
 http://tv.vodafoneplay.is/n4/03.m3u8
 
-#EXTINF: -1, Nick Jr
-http://85.255.182.139:1234/udp/239.0.0.1:1234
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="CANALES PREMIUM 1080P",NICK JR 1080P CALIDAD LISTA PRIVADA
-http://tvpremiumhd.club/lista-gratuita/005204/tv/v/597.ts
+#EXTINF:-1,US_A&E HD
+http://188.165.242.189:8005/live/123456/123456/668.ts
