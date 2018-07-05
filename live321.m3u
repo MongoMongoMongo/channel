@@ -15,11 +15,8 @@ http://78.130.147.20:22002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/N4.png/revision/latest?cb=20180428091126" group-title="ICELAND",N4
 http://tv.vodafoneplay.is/n4/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.2017auditions.com/wp-content/uploads/2016/10/nickelodeon-casting-call.jpg" group-title="LATINO",Nickelodeon
-http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF: -1, Nick Jr
+http://85.255.182.139:1234/udp/239.0.0.1:1234
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/629405288643178497/UCOMp5aJ.png" group-title="LATINO",Nick Jr.
-http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo-300x200.jpg" group-title="LATINO",Disney XD
-http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="CANALES PREMIUM 1080P",NICK JR 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/005204/tv/v/597.ts
