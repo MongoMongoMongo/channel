@@ -12,6 +12,6 @@ http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="USA",History Channel
 http://78.130.147.20:22002
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.icelandwintergames.com/static/gallery/partners-1/.thumb/n4.png" group-title="ICELAND",N4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/N4.png/revision/latest?cb=20180428091126" group-title="ICELAND",N4
 http://tv.vodafoneplay.is/n4/03.m3u8
 
