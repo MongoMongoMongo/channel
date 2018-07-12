@@ -12,8 +12,28 @@ http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="USA",History Channel
 http://78.130.147.20:22002
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/N4.png/revision/latest?cb=20180428091126" group-title="ICELAND",N4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/N4.png/revision/latest?cb=20180428091126" group-title="USA",N4
 http://tv.vodafoneplay.is/n4/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bloximages.chicago2.vip.townnews.com/townnews365.com/content/tncms/assets/v3/editorial/1/78/17821b58-8359-11e7-ae6e-dbb73c77e89c/5995a9883a604.image.png" group-title="ICELAND",Newsy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bloximages.chicago2.vip.townnews.com/townnews365.com/content/tncms/assets/v3/editorial/1/78/17821b58-8359-11e7-ae6e-dbb73c77e89c/5995a9883a604.image.png" group-title="USA",Newsy
 https://content-auso1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/f.m3u8?ad=newsyweb&pbs=814ca98ef4ce49fead788f78be1c6dc2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/9/92/Bbc_news_logo_2016.png/revision/20150322100649" group-title="USA",BBC News
+http://90.35.81.37:9981/stream/channelid/240161531
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="USA",HBO
+http://192.99.18.65:8000/live/main/main/389.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/03/NHL_Network_live_stream.png" group-title="USA",NHL NETWORK
+http://192.99.18.65:8000/live/main/main/1071.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="USA",A&E
+http://192.99.18.65:8000/live/main/main/379.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/2000px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="USA",Animal Planet
+http://192.99.18.65:8000/live/main/main/661.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="USA",NatGeo
+http://192.99.18.65:8000/live/main/main/552.m3u8
+
+
