@@ -54,4 +54,17 @@ http://192.99.18.65:8000/live/main/main/394.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="USA",FX
 http://192.99.18.65:8000/live/main/main/382.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/2000px-Showtime%27s_Showcase_logo.svg.png" group-title="USA",Showtime Showcase
+http://192.99.18.65:8000/live/main/main/359.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/2000px-Starz_Comedy_logo.svg.png" group-title="USA",Starz Comedy
+http://192.99.18.65:8000/live/main/main/1003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20160721191425" group-title="USA",MoreMAX
+http://192.99.18.65:8000/live/main/main/997.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/2000px-Starz_Edge_logo.svg.png" group-title="USA",Starz Edge
+http://192.99.18.65:8000/live/main/main/355.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="USA",NBA TV
+http://192.99.18.65:8000/live/main/main/706.m3u8
