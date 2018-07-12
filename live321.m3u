@@ -36,4 +36,9 @@ http://192.99.18.65:8000/live/main/main/661.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="USA",NatGeo
 http://192.99.18.65:8000/live/main/main/552.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HBONOW-logo.svg/2000px-HBONOW-logo.svg.png" group-title="USA",HBO Now
+http://192.99.18.65:8000/live/main/main/991.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/ESPN_Plus.png/revision/latest?cb=20111129182009" group-title="USA",ESPN+
+http://192.99.18.65:8000/live/main/main/5137.ts
 
